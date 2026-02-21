@@ -38,7 +38,8 @@ Note: On macOS, you must grant Accessibility permissions to your terminal. On Wi
 - Space Complexity: $O(n)$ — The log file grows incrementally based on user input.
 - Performance: Designed to operate at <1% CPU usage to avoid system detection.
 
-## Limitations & Ethical DisclaimerThis project is for EDUCATIONAL PURPOSES ONLY. * Stealth: This script is easily detectable by modern Antivirus heuristic engines.
+## Limitations & Ethical Disclaimer
+This project is for EDUCATIONAL PURPOSES ONLY. * Stealth: This script is easily detectable by modern Antivirus heuristic engines.
 - Security: Logs are stored in Plain Text. This implementation does not include encryption or network exfiltration.
 - Ethics: Unauthorized use of this tool on a device you do not own is illegal. Always obtain explicit, written consent before monitoring any system.
 
