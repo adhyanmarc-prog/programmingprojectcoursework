@@ -17,9 +17,9 @@ pip (Python package manager).
 
 Installation
 Clone the repository:
-//Bash
+<Bash>
 git clone https://github.com/yourusername/keylogger-poc.git
-//
+</Bash>
 
 Install dependencies:
 //Bash
