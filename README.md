@@ -28,7 +28,7 @@ pip install pynput
 
 Running the Tool
 ```Bash
-python keylogger.py
+python keyloger.py
 ```
 
 Note: On macOS, you must grant Accessibility permissions to your terminal. On Windows, run as Administrator for full system-wide logging.
